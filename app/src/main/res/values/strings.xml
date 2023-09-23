@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FoodRunner</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="ip_address">13.235.250.119</string>
+    <string name="token">26c5144c5b9c13</string>
+    <string name="add_to_cart_btn">Add</string>
+    <string name="proceed_to_cart_btn">Proceed to Cart</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below:</string>
+    <string name="ordering_from">Ordering From: </string>
+    <string name="place_order">Place Order (Rs)</string>
+    <string name="shared_preferences">RestaurantPreference</string>
+    <string name="no_orders_placed">No Orders Placed Yet</string>
+    <string name="search_restaurants">Search Restaurants</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders :</string>
+    <string name="can_t_find_any_restaurant_with_that_name">Can\'t find any Restaurant with that name!</string>
+
+
+    <string name="question1">Q1. What is Android</string>
+    <string name="answer1">A1. Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.</string>
+    <string name="question2">Q2. What is Lorem Ipsum?</string>
+    <string name="answer2">A2. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="question3">Q3. Why do we use it?</string>
+    <string name="answer3">A3. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.</string>
+    <string name="question4">Q4. Where does it come from?</string>
+    <string name="answer4">A4. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</string>
+    <string name="question5">Q5. Where can I get some?</string>
+    <string name="answer5">A5. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="my_name">Ronak Gupta</string>
+    <string name="photo_count">9</string>
+    <string name="followers">Followers</string>
+    <string name="followers_count">780</string>
+    <string name="following">Following</string>
+    <string name="email_id">ronakgupta083@gmail.com</string>
+
+
+</resources>
+
